@@ -34,3 +34,7 @@ Quiero aprender
 <a href="https://www.facebook.com/valeriamiranda.487">   <img src = "https://image.flaticon.com/icons/svg/174/174848.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "& nbsp; & nbsp;></a><a href="https://www.instagram.com/saidid_487/?hl=es">    <img src = "https://image.flaticon.com/icons/svg/174/174855.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "& nbsp; & nbsp;></a><a href="https://www.pinterest.com/valeriam2279/_saved/">   <img src = "https://image.flaticon.com/icons/svg/174/174863.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "> </a>
 
  
+<div align = "center"> 
+    <br> 
+    <img src = "https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width = "200" height = "200" > 
+</div>
