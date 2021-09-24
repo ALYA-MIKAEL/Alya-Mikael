@@ -1,6 +1,6 @@
 Bienvenidos a mi perfil 🦾🤖
 ---
-![Valeria Saidid Miranda Ibarra](https://user-images.githubusercontent.com/90013732/134577109-1a1c18fc-e03a-4e57-9b00-b37403460873.gif)
+![Valeria Saidid Miranda Ibarra](https://user-images.githubusercontent.com/90013732/134577109-1a1c18fc-e03a-4e57-9b00-b37403460873.gif) 
 ---
 ### Información educativa <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px"> 
 <p> <em> Estudiante de 1er ciclo en la carrera de computer sciences en <a href="https://www.utec.edu.pe/"> Universidad de Ingeniería y Tecnología </a> 
