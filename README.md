@@ -11,10 +11,12 @@ Quiero aprender
 <img src = "https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=#1C1B17">
 
 ### Preferencia de tecnología y herramientas
-<img src = "https://img.shields.io/badge/-Sublime Text-E34F26?style=flat&logo=Sublime Text&logoColor=black"><img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-Replit-000000?style=flat&logo=Replit&logoColor=00c8ff">
+<img src = "https://img.shields.io/badge/-Sublime Text-E34F26?style=flat&logo=Sublime Text&logoColor=black"><img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
 <img src = "https://img.shields.io/badge/-Pycharm-4DB33D?style=flat&logo=PyCharm&logoColor=#1C1B17">
-<img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=#8c004b">
+<img src = "https://img.shields.io/badge/-Replit-000000?style=flat&logo=Replit&logoColor=00c8ff">
+<img src = "http://img.shields.io/badge/-hackerrank-000000?style=flat&logo=hackerrank&logoColor=#1C1B17">
 
 ### **Otros idiomas que conozco**
 <img src ="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" > 
