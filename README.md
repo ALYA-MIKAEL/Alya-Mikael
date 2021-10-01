@@ -12,6 +12,7 @@
 </em> </p> 
 
 * Quiero aprender <img src = "https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=#1C1B17">
+* Aprendiendo <img src = "https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML&logoColor=#1C1B17">
 
 ---
 
