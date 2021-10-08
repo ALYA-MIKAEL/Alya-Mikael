@@ -27,6 +27,7 @@
 
 ### **Otros idiomas que conozco**
 <img src ="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" > 
+<img src ="https://img.shields.io/badge/-SQL-BLUE?style=flat&logo=SQL&logoColor=white" > 
 
 ---
 
