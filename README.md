@@ -1,7 +1,5 @@
 # Bienvenidos a mi perfil 🦾🤖
 
-----
-
 ![Valeria Saidid Miranda Ibarra](https://user-images.githubusercontent.com/90013732/134577109-1a1c18fc-e03a-4e57-9b00-b37403460873.gif) 
 
 ---
