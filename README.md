@@ -44,7 +44,9 @@
 ### **Información de contacto**  <img src="https://user-images.githubusercontent.com/90013732/134582887-65acf49f-08a2-4e57-a4fd-0f8fc7220108.gif" width="40px"> 
 
 <center>
-<a href="https://www.facebook.com/valeriamiranda.487">   <img src = "https://image.flaticon.com/icons/svg/174/174848.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "& nbsp; & nbsp;></a><a href="https://www.instagram.com/saidid_487/?hl=es">    <img src = "https://image.flaticon.com/icons/svg/174/174855.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "& nbsp; & nbsp;></a><a href="https://www.pinterest.com/valeriam2279/_saved/">   <img src = "https://image.flaticon.com/icons/svg/174/174863.svg" alt = "texto alternativo" width = " 20 "altura =" 20 "> </a>
+<a href="https://www.facebook.com/valeriamiranda.487"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" alt = "FACEBOOK " width = " 20 "altura =" 20 "& nbsp; & nbsp;></a>
+<a href="https://www.instagram.com/saidid_487/?hl=es"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt = "INSTAGRAM" width = " 20 "altura =" 20 "& nbsp; & nbsp;></a>
+<a href="https://www.pinterest.com/valeriam2279/_saved/"><img src = "https://user-images.githubusercontent.com/90013732/194584638-51c602a0-0709-42d0-b34f-5076ac04cadb.png" alt = "pinterest" width = " 20 "altura =" 20 "></a>
 
  ---
  
