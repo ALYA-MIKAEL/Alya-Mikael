@@ -9,8 +9,9 @@
 <p> <em> Estudiante de  3do ciclo en la carrera de computer sciences en <a href="https://www.utec.edu.pe/"> Universidad de Ingeniería y Tecnología </a> 
 </em> </p> 
 
-* Quiero aprender <img src = "https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=#1C1B17">
+* Aprendiendo <img src = "https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=#1C1B17">
 * Aprendiendo <img src = "https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML&logoColor=#1C1B17">
+* Aprendiendo <img src = "https://img.shields.io/badge/-PYTHON-000000?style=flat&logo=HTML&logoColor=#1C1B17">
 
 ---
 
