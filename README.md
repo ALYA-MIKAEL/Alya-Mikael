@@ -16,7 +16,7 @@
 
 ### Preferencia de tecnología y herramientas  <img src ="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?" width="40px">
 
-<img src = "https://img.shields.io/badge/-Sublime Text-E34F26?style=flat&logo=Sublime Text&logoColor=black"><img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
+<img src = "https://img.shields.io/badge/-Sublime Text-E34F26?style=flat&logo=Sublime Text&logoColor=black"><img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src = "https://img.shields.io/badge/-Pycharm-4DB33D?style=flat&logo=PyCharm&logoColor=#1C1B17">
 <img src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=#8c004b">
@@ -36,7 +36,7 @@
 
 1. *Mi cumpleaños es el 30/01/2003* 🎂
 3. *Vivo en la Provincia Constitucional del Callao* 🌊
-5. *Me gustan las plantas y tengo la idea de que el planeta dejería de ser pobre si paramos de consumir innecesariamente.* 🌱
+5. *Me gustan las plantas y los animales, además tengo la idea de que el planeta dejería de ser pobre si pararamos de consumir innecesariamente, por ejemplo dejando de comer carne y tomando una dieta vegana.* 🌱
 6. *Participo activamente en voluntariados digitales en la página web* <img src = "https://img.shields.io/badge/-Proa-C81D11?style=flat&logo=Proa&logoColor=#FF0000">
 
 ---
