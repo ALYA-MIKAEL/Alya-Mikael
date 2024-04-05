@@ -6,7 +6,7 @@
 
 ### Información educativa  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px"> 
 
-<p> <em> Estudiante de  3do ciclo en la carrera de computer sciences en <a href="https://www.utec.edu.pe/"> Universidad de Ingeniería y Tecnología </a> 
+<p> <em> Estudiante de  5do ciclo en la carrera de computer sciences en <a href="https://www.utec.edu.pe/"> Universidad de Ingeniería y Tecnología </a> 
 </em> </p> 
 
 * Aprendiendo <img src = "https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=#1C1B17">
