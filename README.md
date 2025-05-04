@@ -1,60 +1,46 @@
-# Bienvenidos a mi perfil
+<h1 align="center"><b>Hola, soy Valeria Miranda</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy **Valeria Saidid Miranda Ibarra**, actualmente cursando la carrera de **Ciencias de la Computación** en la **Universidad de Ingeniería y Tecnología (UTEC)**. Este repositorio es un reflejo de mis intereses y el aprendizaje que voy acumulando en el campo de la tecnología.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B73FF&center=true&vCenter=true&width=700&height=50&lines=Apasionada+por+la+tecnología+y+la+lógica.;Estudiante+de+UTEC+%F0%9F%93%9C.;Desarrolladora+en+constante+aprendizaje.;Amante+de+los+gatos+y+el+planeta+%F0%9F%8C%BF.">
+  </a>
+</p>
 
----
-
-### 🛠️ **Tecnologías y Herramientas**
-
-Estoy desarrollando habilidades en diversas tecnologías de programación y herramientas para mejorar mis capacidades en el área del desarrollo de software:
-
-- **Lenguajes de programación**: 
-  - Python
-  - C++
-  - Java
-  - SQL
-  - JavaScript
-- **Herramientas**:
-  - Sublime Text
-  - Visual Studio Code
-  - PyCharm
-  - GitHub
+Apasionada por la tecnología y el desarrollo de software, actualmente formándome en la [Universidad de Ingeniería y Tecnología (UTEC)](https://www.utec.edu.pe/). Me interesa la programación, la lógica computacional y la creación de soluciones eficientes.
 
 ---
 
-### 💡 **Áreas de Interés**
+## 🧠 Lenguajes de Programación
 
-Mis áreas de interés incluyen:
-
-- Desarrollo de aplicaciones web
-- Inteligencia Artificial
-- Desarrollo de APIs y servicios backend
-- Arquitectura de software
-- Buenas prácticas de programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql" alt="Lenguajes de Programación" />
+</p>
 
 ---
 
-### 🌍 **Voluntariado y Colaboraciones**
+## 🛠️ Herramientas y Tecnologías
 
-Participo activamente en proyectos de voluntariado digital en la plataforma **Proa**, donde colaboro en el desarrollo de soluciones digitales para la comunidad.
-
----
-
-### 📬 **Contacta conmigo**
-
-Puedes ponerte en contacto conmigo a través de las siguientes plataformas:
-
-- [LinkedIn](https://www.linkedin.com/in/valeriamiranda)  
-- [Facebook](https://www.facebook.com/valeriamiranda.487)  
-- [WhatsApp](https://wa.link/owlal0)  
----
-
-### ⚙️ **Otros datos**
-
-Este repositorio refleja mi progreso en el aprendizaje de la programación. Estoy abierta a colaborar y aprender nuevas tecnologías. Si deseas ver más detalles sobre mi trabajo, no dudes en revisar los contenidos de mis repositorios.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,replit" alt="Herramientas y Tecnologías" />
+</p>
 
 ---
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+## 📫 Contacto
+
+- 🌐 [Linkledin](https://www.instagram.com/saidid_487/)
+- 💬 [WhatsApp](https://wa.link/owlal0)
+- 📌 [Facebook](https://www.pinterest.com/valeriam2279/_saved/)
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
