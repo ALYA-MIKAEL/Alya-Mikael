@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Apasionada por la tecnología y el desarrollo de software, actualmente formándome en la [Universidad de Ingeniería y Tecnología (UTEC)](https://www.utec.edu.pe/). Me interesa la programación, la lógica computacional y la creación de soluciones eficientes.
+Apasionada por la tecnología y el desarrollo de software, actualmente formándome en la [Universidad de Ingeniería y Tecnología (UTEC)](https://www.utec.edu.pe/), estudiando Ciencias de la Computación. Me interesa la programación, la lógica computacional y la creación de soluciones eficientes.
 
 ---
 
@@ -28,9 +28,9 @@ Apasionada por la tecnología y el desarrollo de software, actualmente formándo
 
 ## 📫 Contacto
 
-- 🌐 [Linkledin](https://www.instagram.com/saidid_487/)
+- 🌐 [Linkledin](https://www.linkedin.com/in/valeria-saidid-miranda-ibarra-a73556221/)
 - 💬 [WhatsApp](https://wa.link/owlal0)
-- 📌 [Facebook](https://www.pinterest.com/valeriam2279/_saved/)
+- 📌 [Facebook](https://web.facebook.com/valeriamiranda.487)
 
 ---
 
